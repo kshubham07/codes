@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552157360 source:c:\users\kumar\desktop\codes\opcpizza\main.cpp
+	<iostream>
+	<algorithm>
+
